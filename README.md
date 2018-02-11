@@ -69,16 +69,23 @@ Useful Wikipedia Links
 **Algorithms**
 
 `ID3` -> **[Click here](https://en.wikipedia.org/wiki/ID3_algorithm)**
+
 `C4.5` -> **[Click here](https://en.wikipedia.org/wiki/C4.5_algorithm)**
+
 `K-Nearest Neighborhood` -> **[Click here](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)**
+
 `Nearest Neighbor` -> **[Click here](https://en.wikipedia.org/wiki/Nearest_neighbor_search)**
+
 `Farthest Neighbor` -> **[Click here](https://en.wikipedia.org/wiki/Farthest_neighbor)**
+
 `Apriori` -> **[Click here](https://en.wikipedia.org/wiki/Apriori_algorithm)**
+
 `K-Means` -> **[Click here](https://en.wikipedia.org/wiki/K-means_clustering)**
 
 **Functions**
 
 `Supervised` -> **[Click here](https://en.wikipedia.org/wiki/Supervised_learning)**
+
 `UnSupervised` -> **[Click here](https://en.wikipedia.org/wiki/Unsupervised_learning)**
 
 
